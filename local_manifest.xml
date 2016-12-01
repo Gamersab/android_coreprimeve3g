@@ -6,12 +6,9 @@
 <project path="vendor/htc/samsung" name="gamersab/android_vendor_samsung_coreprimeve3g" revision="cm-13.0" />
 <!-- Useless Stuff -->
 <remove-project name="platform/prebuilts/clang/darwin-x86/3.1" />
-<remove-project name="platform/prebuilts/clang/darwin-x86/3.2" />
-<remove-project name="platform/prebuilts/clang/darwin-x86/arm/3.3" />
+<remove-project name="platform/prebuilts/clang/darwin-x86/3.2" /><remove-project name="plaorm/rebuilts/clang/darwin-x86/arm/3.3" />
 <remove-project name="platform/prebuilts/clang/darwin-x86/host/3.4" />
-<remove-project name="platform/prebuilts/clang/darwin-x86/host/3.5" />
-<remove-project name="platform/prebuilts/clang/darwin-x86/mips/3.3" />
-<remove-project name="platform/prebuilts/clang/darwin-x86/x86/3.3" />
+<remove-projectremove-proje name="platform/prebuilts/clang/darwin-x86/x86/3.3" />
 <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" />
 <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
 <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" />

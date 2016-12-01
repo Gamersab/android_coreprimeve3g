@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Device Tree, Kernel and Vendor for samsung galaxy core prime VE G636H -->
 <project path="device/samsung/coreprimeve3g" name="gamersab/android_device_samsung_coreprimeve3g-2" revision="cm-13.0" />
